@@ -284,4 +284,4 @@ async def classCheck(level, role, user: discord.Member, bot, server):
             await bot.delete_message(msg)
             await bot.delete_message(stif)
             continue
-bot.run("NDA4MDI1NjM4MzU2Nzc5MDA4.DVKOGA.ohf8pnZ14uXQ0c7D9A8RZ_nNLhM")
+bot.run(token.token)
